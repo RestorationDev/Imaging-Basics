@@ -16,7 +16,7 @@ Spatial filtering applies a convolution operation to smooth an image. A common i
 
 ## 4. Laplacian Filtering
 
-Laplacian filtering enhances edges by detecting regions of rapid intensity change. It uses the second derivative of the image, making it useful for edge detection and sharpening applications.
+Laplacian filtering enhances edges by detecting regions of rapid intensity change. It uses the second derivative of the image, making it useful for edge detection and sharpening applications. By using f - gradient(f) (already handled by kernel, we can apply this filter.
 
 ## Usage
 
