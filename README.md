@@ -12,7 +12,7 @@ Median filtering is a non-linear technique used to reduce noise while preserving
 
 ## 3. Spatial Filtering (Blur)
 
-Spatial filtering applies a convolution operation to smooth an image. A common implementation is Gaussian or box filtering, which helps reduce noise and minor details by averaging pixel values.
+Spatial filtering applies a convolution operation to smooth (blur) an image. A common implementation is Gaussian or box filtering, which helps reduce noise and minor details by averaging pixel values.
 
 ## 4. Laplacian Filtering
 
