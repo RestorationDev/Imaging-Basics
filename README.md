@@ -20,7 +20,7 @@ Laplacian filtering enhances edges by detecting regions of rapid intensity chang
 
 ## Usage
 
-Each technique can be applied independently to an image. Ensure you have the necessary dependencies installed before running the scripts.
+Each technique can be applied independently to images. Ensure you have the necessary dependencies installed before running the scripts.
 
 ## Dependencies
 
