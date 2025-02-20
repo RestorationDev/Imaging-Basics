@@ -1,4 +1,4 @@
-# Imaging Processing Toolbox
+# Imaging Processing Toolkit
 
 This folder contains implementations of various image processing techniques used for enhancing and filtering images. Below is an overview of the methods included:
 
