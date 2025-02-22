@@ -8,7 +8,7 @@ Histogram equalization improves the contrast of an image by spreading out the mo
 
 ## 2. Median Filtering
 
-Median filtering is a non-linear technique used to reduce noise while preserving edges. It replaces each pixel's value with the median of the intensities in its neighborhood, making it effective for removing salt-and-pepper noise.
+Median filtering is a non-linear technique used to reduce noise while preserving edges. It replaces each pixel's value with the median of the intensities in its neighborhood commonly 3 x 3, making it effective for removing salt-and-pepper noise.
 
 ## 3. Spatial Filtering (Blur)
 
