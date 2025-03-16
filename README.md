@@ -1,7 +1,7 @@
 # Imaging Processing Toolkit
 
 This folder contains implementations of various image processing techniques used for enhancing and filtering images (made from scratch). Below is an overview of the methods included:
-
+ 
 ## 1. Histogram Equalization 
 
 Histogram equalization improves the contrast of an image by spreading out the most frequent intensity values. This technique is useful for enhancing details in images with poor contrast.
