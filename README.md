@@ -1,6 +1,6 @@
 # Imaging Processing Toolkit
 
-This folder contains implementations of various image processing techniques used for enhancing and filtering images (made from scratch). Below is an overview of the methods included:
+This folder contains implementations of various image processing techniques used for enhancing and filtering images (made from scratch). Below is an overview of the methods included: 
 
 ## 1. Histogram Equalization 
 
